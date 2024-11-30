@@ -1,0 +1,4 @@
+repository "3D-Sample/MySubwaySurf@18966789401135@cloud"
+  path "/"
+    br "/main"
+    co "/main"
